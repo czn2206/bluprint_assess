@@ -43,5 +43,17 @@
     "ts-node": "~7.0.0",
     "tslint": "~5.15.0",
     "typescript": "~3.5.3"
-  }
+  },
+  "description": "Bluprint Solutions Front End Assessment",
+  "main": "karma.conf.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/czn2206/bluprint_assess.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/czn2206/bluprint_assess/issues"
+  },
+  "homepage": "https://github.com/czn2206/bluprint_assess#readme"
 }
